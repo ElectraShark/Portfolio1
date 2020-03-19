@@ -1,0 +1,192 @@
+
+
+body{
+
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  position:absolute;
+  background-color: #fffdf6;
+
+}
+
+p{
+  display: inline;
+}
+
+.image1{
+
+position: absolute;
+  margin-left: 18px;
+  margin-top: 3px;
+  width: 30px;
+  height: 30px;
+}
+
+.image2{
+  position: absolute;
+    margin-left: 18px;
+    margin-top: 3px;
+    width: 30px;
+    height: 30px;
+}
+
+.image3{
+
+position: absolute;
+  margin-left: 22px;
+  margin-top: 3px;
+  width: 32px;
+  height: 26px;
+}
+
+.image4{
+  position: absolute;
+    margin-left: 22px;
+    margin-top: 3px;
+    width: 35px;
+    height: 25px;
+}
+
+#heading1{
+  font-family: 'Caveat', cursive;
+  font-size: 55px;
+
+  display: inline-block;
+
+  position: absolute;
+  left:44%;
+  top:140px;
+}
+
+.introduction{
+
+  background-color:lightblue;
+  height: 300px;
+  margin-top: 70px;
+
+  text-align: left;
+
+  line-height: 280px;
+
+}
+
+#cartoon{
+    width: 150px;
+    border-radius:100%;
+
+    position:absolute;
+    left:45%;
+    top:100px;
+
+    align-content: center;
+
+}
+
+.paragraph2{
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 50px;
+
+  font-family: 'Quicksand', sans-serif;
+  font-size: 21px;
+
+  text-align:justify;
+  text-justify:inter-character;
+
+  border-style:solid;
+  border-color: #d1cebd;
+  padding: 40px;
+  border-width: thin;
+
+  background-color: white;
+
+}
+
+.polygon1{
+  position: fixed;
+  z-index: -1;
+  margin-top: 0;
+  fill:#ebe6e6;
+}
+
+.intro{
+  font-size:21px;
+
+}
+
+.polygon2{
+  position: fixed;
+  z-index: -1;
+  margin-top: 0;
+  fill:#f3ecb8;
+}
+.headings{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.ppt{
+ margin-top: 10px; 
+}
+
+.table1{
+  display:inline-block;
+  position:relative;
+
+  width:435px;
+}
+
+.table2{
+  display: inline-block;
+  positin:relative;
+
+  width:135px;
+}
+
+  .table2a{
+  position:relative;
+    display: inline-block;
+
+}
+.heading2{
+  font-weight: 500;
+  font-size: 1.2em;
+  color:#757575;
+  font-weight:bold;
+}
+
+.content2{
+  font-size: 0.83em;
+  font-weight:bold;
+  color:#757575;
+  line-height: 2.1;
+
+}
+
+mark {
+  display: inline-block;
+  line-height: 0em;
+  padding-bottom: 0.5em;
+  color: #757575;
+  background-color: #c0ffb3;
+}
+
+.heading3{
+  font-weight: 500;
+  color: #757575;
+  margin-right: 300px;
+}
+
+.major{
+  display:inline-block;
+  position:relative;
+
+  width: 450px;
+}
+.major2{
+  display:inline-block;
+  position:relative;
+
+}
